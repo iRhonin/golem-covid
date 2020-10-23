@@ -1,3 +1,7 @@
+## Result 
+![alt text](./covid.gif?raw=true)
+
+
 ## How it works
 This program get a parameter from `data/owid-covid-data.csv` file (like `new_cases_per_million`) and plot every day data on the world map.
 After all images generated (in `outputs`), it will gather them and create a gif.
